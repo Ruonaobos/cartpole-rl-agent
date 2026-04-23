@@ -9,7 +9,7 @@ purely through trial and error.
 
 ## Demo
 
-https://github.com/Ruonaobos/cartpole-rl-agent/assets/cartpole_agent_demo.mp4
+
 
 ---
 
